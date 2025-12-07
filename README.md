@@ -36,7 +36,7 @@ The main goals of this project are:
 
 ## 📁 Files in This Repository
 
-* **Homescapes_QA_Test_Cases.xlsx** → Full test case documentation
+* **Homescapes_QA_Test_Cases_Fatma_Nur_Karaman.xlsx** → Full test case documentation
 * **README.md** → Project overview and purpose
 
 ## 🎯 My Objective
